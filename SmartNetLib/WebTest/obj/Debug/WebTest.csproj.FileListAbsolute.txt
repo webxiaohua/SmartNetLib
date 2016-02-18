@@ -1,0 +1,7 @@
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\bin\WebTest.dll
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\bin\WebTest.pdb
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\bin\Smart.NETLib.dll
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\bin\Smart.NETLib.pdb
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\obj\Debug\ResolveAssemblyReference.cache
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.dll
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.pdb

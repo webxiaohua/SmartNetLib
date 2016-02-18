@@ -1,0 +1,5 @@
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Debug\Smart.NETLib.dll
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Debug\Smart.NETLib.pdb
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\ResolveAssemblyReference.cache
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\Smart.NETLib.dll
+E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\Smart.NETLib.pdb
