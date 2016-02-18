@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.Caching;
 using System.Collections;
 
-namespace Smart.NETLib.Cache
+namespace Smart.NETLib
 {
     /// <summary>
     /// @Author:webxiaohua
