@@ -5,3 +5,10 @@ E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\bin\Smart.NETLib.pdb
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\obj\Debug\ResolveAssemblyReference.cache
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.dll
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\bin\WebTest.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\bin\WebTest.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\bin\Smart.NETLib.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\bin\Smart.NETLib.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\WebTest\obj\Debug\WebTest.pdb

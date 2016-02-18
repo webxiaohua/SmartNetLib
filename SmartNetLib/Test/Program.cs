@@ -11,7 +11,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DirFileHelper.GetMapPath(""));
+            //Console.WriteLine(DirFileHelper.GetMapPath(""));
             Console.Read();
         }
     }
@@ -36,7 +36,9 @@ namespace Test
             }
         }
 
-        private DiskFullException(SerializationInfo info, StreamingContext context) : base(info, context) {
+        private DiskFullException(SerializationInfo info, StreamingContext context)
+            : base(info, context)
+        {
             diskpath = info.GetString("Diskpath");
         }
     }

@@ -6,3 +6,11 @@ E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Test\obj\x86\Debug\Test.pdb
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Test\bin\Debug\Test.exe.config
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Test\bin\Debug\Smart.NETLib.dll
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Test\bin\Debug\Smart.NETLib.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\bin\Debug\Test.exe.config
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\bin\Debug\Test.exe
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\bin\Debug\Test.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\bin\Debug\Smart.NETLib.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\bin\Debug\Smart.NETLib.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\obj\x86\Debug\Test.exe
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Test\obj\x86\Debug\Test.pdb

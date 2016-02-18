@@ -11,6 +11,7 @@ namespace WebTest
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            Response.Write(ConfigHelper.GetConfigInt("key1"));
             Response.Write(DirFileHelper.GetMapPath(""));
         }
     }

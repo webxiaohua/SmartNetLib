@@ -3,3 +3,7 @@ E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Debug\Smart.NETLib.p
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\ResolveAssemblyReference.cache
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\Smart.NETLib.dll
 E:\SXH\GitProjects\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\Smart.NETLib.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Debug\Smart.NETLib.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Debug\Smart.NETLib.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\Smart.NETLib.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Debug\Smart.NETLib.pdb
