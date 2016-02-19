@@ -12,6 +12,9 @@ namespace Test
         static void Main(string[] args)
         {
             //Console.WriteLine(DirFileHelper.GetMapPath(""));
+            //string a = TimeHelper.GetTimeStamp();
+            //Console.WriteLine(a);
+            XmlTest.Test1();
             Console.Read();
         }
     }

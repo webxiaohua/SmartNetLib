@@ -52,6 +52,7 @@
     <Compile Include="File\FileHelper.cs" />
     <Compile Include="File\FileOperationHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Time\TimeHelper.cs" />
     <Compile Include="Xml\XmlHelper.cs" />
   </ItemGroup>
   <ItemGroup>
