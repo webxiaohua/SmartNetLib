@@ -5,6 +5,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <script type="text/javascript">
+        var o = { x: 1 ,y:2,z:3};
+        delete o["x"];
+        for (var item in o ) {
+            console.log(o[item]);
+        }
+        console.log(o.x);
+    </script>
 </head>
 <body>
     <form id="form1" runat="server">

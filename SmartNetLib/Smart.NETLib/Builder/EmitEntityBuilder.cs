@@ -16,9 +16,9 @@ namespace Smart.NETLib.Builder
     {
         #region 不可改变的参数
         private static readonly MethodInfo getRow =
-                typeof(DataRow).GetMethod("get_Item", new Type[] { typeof(int) });
+                typeof(DataRow).GetMethod("get_Item", new Type[] { typeof(int) }); //反射 获取索引器的值  set_Item  dr[0] 
         private static readonly MethodInfo isDBNullRow =
-                typeof(DataRow).GetMethod("IsNull", new Type[] { typeof(int) });
+                typeof(DataRow).GetMethod("IsNull", new Type[] { typeof(int) });    // IsNull(0)
 
         private static readonly MethodInfo getRecord =
                 typeof(IDataRecord).GetMethod("get_Item", new Type[] { typeof(int) });

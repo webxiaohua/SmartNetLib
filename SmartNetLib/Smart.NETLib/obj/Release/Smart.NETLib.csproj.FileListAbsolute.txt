@@ -1,0 +1,4 @@
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Release\Smart.NETLib.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\bin\Release\Smart.NETLib.pdb
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Release\Smart.NETLib.dll
+F:\SXH\GitWorkSpace\NetCode\SmartNetLib\SmartNetLib\Smart.NETLib\obj\Release\Smart.NETLib.pdb
