@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="DelegateTest.cs" />
     <Compile Include="EmitTest.cs" />
+    <Compile Include="ExtensionTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReflectionTest.cs" />

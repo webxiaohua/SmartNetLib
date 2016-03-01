@@ -39,7 +39,7 @@ namespace Test
         static void Main(string[] args)
         {
             #region 反射示例
-            ReflectionTest.Test();
+            //ReflectionTest.Test();
             #endregion
             #region 反射性能测试
             //EmitTest.Test();
@@ -48,6 +48,10 @@ namespace Test
             //DelegateTest.DoGreet(DelegateTest.GreetEnglish, "Robin");
             //DelegateTest.DoGreet(DelegateTest.GreetChinest, "沈新华");
             #endregion
+            #region 扩展方法测试
+            ExtensionTest.Test();
+            #endregion
+
             //Console.WriteLine(DirFileHelper.GetMapPath(""));
             //string a = TimeHelper.GetTimeStamp();
             //Console.WriteLine(a);
